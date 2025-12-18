@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a first year uni student studying computer science with an interest in web/software development and cyber security.
+I am a second year uni student studying computer science with an interest in web/software development and cyber security.
 
 This profile is to share some personal projects that I have worked on, and to build my portfolio
 
