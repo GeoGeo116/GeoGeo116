@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b490851-0fbd-4e77-ab1e-622966f25da2" width="100%"/>
+</p>
 
-I am a second year uni student studying computer science with an interest in web/software development and cyber security.
+## Hi there 👋, I'm George 
+
+I am a second year uni student studying Software Engineering/Computer Science with an interest in web/software development and cyber security.
 
 This profile is to share some personal projects that I have worked on, and to build my portfolio
+- 🎯Portfolio Website: [Portfolio](https://geogeo116.github.io/website-portfolio/)
+- 📨You can reach me on LinkedIn: [Get in touch](https://www.linkedin.com/in/georgemcnamara2006/)
+
 
 Currently, I still have basic projects, but I hope to bring more advanced projects to show soon.
-
 - I am currently working on a text-based Java alien game!
 - I am currently learning front-end development
 
-### Programming languages
-I have experience with a few languages which I hope to add to in the future, some include:
+### Programming languages and Tools
+I have varying levels of experience with the following languages and tools, but I hope to learn more in the future
 
 <span>
   <img src="https://github.com/user-attachments/assets/dc13f935-11d4-4ea6-b304-18c315846a4a" height=50/>
@@ -22,3 +28,6 @@ I have experience with a few languages which I hope to add to in the future, som
   <img src="https://github.com/user-attachments/assets/4e91dd55-fd47-4a61-ae9c-ba4c443fdfad" height=50/>
   <img src="https://github.com/user-attachments/assets/477b1bdf-c239-4ae9-83b0-b27634b721fa" height=50/>
 </span>
+<br>
+<br>
+<h3 align="center">Feel free to take a look around some of my repositories 🙂</h3>
