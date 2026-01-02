@@ -7,7 +7,7 @@
 I am a second year uni student studying Software Engineering/Computer Science with an interest in web/software development and cyber security.
 
 This profile is to share some personal projects that I have worked on, and to build my portfolio
-- 🎯Portfolio Website: [Portfolio](https://geogeo116.github.io/website-portfolio/)
+- 🎯Portfolio Website: [Portfolio](https://geogeo116.github.io)
 - 📨You can reach me on LinkedIn: [Get in touch](https://www.linkedin.com/in/georgemcnamara2006/)
 
 
