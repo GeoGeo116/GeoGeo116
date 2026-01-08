@@ -24,9 +24,11 @@ I have varying levels of experience with the following languages and tools, but 
   <img src="https://github.com/user-attachments/assets/58a2a7fc-5fdf-4183-929c-34f75d5286e9" height=50/>
   <img src="https://github.com/user-attachments/assets/88464b91-650f-454f-ae2a-7ac7cd5b4073" height=50/>
   <img src="https://github.com/user-attachments/assets/237c533d-c5a3-476a-a55f-d14df0bcd48d" height=50/>
+  <img src="https://github.com/user-attachments/assets/1482e9b1-8541-4cc6-8111-9e54fba8a6d8" height=50/>
   <img src="https://github.com/user-attachments/assets/0d773406-743c-46ea-ad16-420ec30a997d" height=50/>
   <img src="https://github.com/user-attachments/assets/4e91dd55-fd47-4a61-ae9c-ba4c443fdfad" height=50/>
   <img src="https://github.com/user-attachments/assets/477b1bdf-c239-4ae9-83b0-b27634b721fa" height=50/>
+
 </span>
 <br>
 <br>
