@@ -28,6 +28,8 @@ I have varying levels of experience with the following languages and tools, but 
   <img src="https://github.com/user-attachments/assets/0d773406-743c-46ea-ad16-420ec30a997d" height=50/>
   <img src="https://github.com/user-attachments/assets/4e91dd55-fd47-4a61-ae9c-ba4c443fdfad" height=50/>
   <img src="https://github.com/user-attachments/assets/477b1bdf-c239-4ae9-83b0-b27634b721fa" height=50/>
+  <img src="https://github.com/user-attachments/assets/189506e1-9601-4bd0-a27a-80b8626e8539" height=50/>
+
 
 </span>
 <br>
